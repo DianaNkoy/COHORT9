@@ -1,0 +1,92 @@
+header {
+    background-image: url(../img/banner.jpg);
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header h1 {
+    color: white;
+    text-align: center;
+    padding-top: 15vh;
+    font-size: 100px;
+}
+
+body {
+    background-color: black;
+    color: antiquewhite;
+}
+
+h2 {
+    padding-top: 65px;
+    padding-bottom: 25px;;
+}
+
+nav {
+    overflow: auto;
+    width: 100%;
+    text-align: center;
+}
+
+nav a {
+    color: antiquewhite;
+    text-decoration: none;
+    float: left;
+    padding: 25px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 15%; /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center;
+}
+
+
+.my-style {
+    color: blue;
+}
+
+img {
+    width: 450px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.container p {
+    padding: 15px;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.float-left {
+    float: left;
+    width: 40%;
+}
+
+/* .float-left p {
+    padding: 15px;
+} */
+
+.float-right {
+    float: right;
+    width: 40%;
+}
+
+#testimonials {
+    clear: both;
+    text-align: center;	
+}
+
+#testimonials p {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#article2 {
+    clear: both;
+}

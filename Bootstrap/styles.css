@@ -1,0 +1,29 @@
+header {
+
+}
+
+
+img {
+ width: 150px;
+ height: 65px;
+}
+
+.nav-item {
+    text-decoration: none;
+    
+    
+}
+
+a:hover{
+    color: red;
+}
+
+.carousel-item img {
+  width: 100px;
+  height: 65pxss;
+}
+
+
+
+
+ 

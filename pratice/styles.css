@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#calc{
+    width: 50%;
+    height: 50%;
+    background-color: aqua;
+    margin:auto; 
+
+}
+
+.butt{
+    background-color: brown;
+}
+
+#btn{
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(108, 22, 229);
+    box-shadow: 5px 5px rgb(31, 30, 30);
+    border-radius: 15;
+    text-align: center;
+
+}
+
+#calc #btn:hover{
+    background-color: #bdb4b4;
+    border: 2px solid rgb(229, 22, 22);
+    box-shadow: 10px 15px rgb(31, 30, 30);
+    border-radius: 50%;
+    text-align: center;
+     font-style: italic;
+     color: black;
+}
