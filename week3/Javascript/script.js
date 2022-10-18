@@ -1,5 +1,9 @@
-function turnOff () {
-document.getElementById ('lightbuld') 
+function turnOn() {
+    console.log("turnOn activated")
+document.getElementById ('lightbulb'). src = "pic_bulbon.gif"
 }
 
-function script
+function turnOff() {
+console.log("turnOff activated")
+document.getElementById('lightbulb').src = "pic_bulboff.gif"
+}
